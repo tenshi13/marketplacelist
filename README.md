@@ -14,6 +14,11 @@ and publish onto, and potentially earn a living
 |[Shopify](https://apps.shopify.com/)|https://developers.shopify.com/|
 |[Magento](https://marketplace.magento.com/)|https://magento.com/partners/become|
 
+## Helpdesk
+|System|Link|
+|------|----|
+|[Zendesk](https://www.zendesk.com/apps/)|https://www.zendesk.com/apps/|
+
 ## CMS
 |System|Link|
 |------|----|
