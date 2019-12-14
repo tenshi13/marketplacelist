@@ -27,6 +27,7 @@ and publish onto, and potentially earn a living
 |[Joomla](https://extensions.joomla.org/)|https://extensions.joomla.org/|
 
 ## Cloud Storage
+|------|----|
 |[Dropbox](https://www.dropbox.com/developers)|https://www.dropbox.com/developers|
 |[Box](https://developer.box.com/)|https://developer.box.com/|
 |[G Suite](https://developers.google.com/gsuite/marketplace/)|https://developers.google.com/gsuite/marketplace/|
