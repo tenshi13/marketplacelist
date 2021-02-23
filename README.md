@@ -2,6 +2,15 @@
 just a curated list of marketplaces where developers can develop and app or product for 
 and publish onto, and potentially earn a living
 
+## Mobile
+|System|Link|
+|------|----|
+|[Apple App Store](https://www.apple.com/us/app-store/)|https://www.apple.com/us/app-store/|
+|[Google Play Store](https://play.google.com/store)|https://play.google.com/store|
+|[Amazon Apps & Games](https://www.amazon.com/mobile-apps/)|https://www.amazon.com/mobile-apps/|
+|[AppBrain](https://www.appbrain.com/)|https://www.appbrain.com/|
+|[Cydia](https://cydia.saurik.com/)|https://cydia.saurik.com/|
+
 ## Cloud
 |System|Link|
 |------|----|
@@ -26,6 +35,14 @@ and publish onto, and potentially earn a living
 |[Drupal](https://www.drupal.org/project/project_module)|https://www.drupal.org/project/project_module|
 |[Joomla](https://extensions.joomla.org/)|https://extensions.joomla.org/|
 
+## Finance
+|System|Link|
+|------|----|
+|[Xero](https://apps.xero.com/)|https://apps.xero.com/|
+|[Square](https://squareup.com/us/en/app-marketplace)|https://squareup.com/us/en/app-marketplace|
+|[MYOB (Australia)](https://www.myob.com/au/apps)|https://www.myob.com/au/apps|
+
+
 ## Cloud Storage
 |System|Link|
 |------|----|
@@ -38,3 +55,4 @@ and publish onto, and potentially earn a living
 |------|----|
 |[Github](https://github.com/marketplace)|https://github.com/marketplace|
 |[GitLab](https://about.gitlab.com/customers/marketplace/)|https://about.gitlab.com/customers/marketplace/|
+|[Bitbucket](https://marketplace.atlassian.com/addons/app/bitbucket)|https://marketplace.atlassian.com/addons/app/bitbucket|
