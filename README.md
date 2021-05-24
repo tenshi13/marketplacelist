@@ -16,6 +16,8 @@ and publish onto, and potentially earn a living
 |------|----|
 |[Amazon Web Services](https://aws.amazon.com/marketplace/)|https://docs.aws.amazon.com/marketplace/latest/userguide/user-guide-for-sellers.html|
 |[Google Cloud Platform](https://cloud.google.com/marketplace/)|https://cloud.google.com/marketplace/sell/|
+|[Heroku Elements](https://elements.heroku.com/)|https://elements.heroku.com/|
+|[DigitalOcean Marketplace](https://www.digitalocean.com/products/marketplace/)|https://www.digitalocean.com/products/marketplace/|
 
 ## Ecommerce
 |System|Link|
